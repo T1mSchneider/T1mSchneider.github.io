@@ -17,14 +17,12 @@
 
 ---
 
-### Category Name 2
+### School Projects
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
+- [Capstone, What leads to a Satisfactory Flight](http://example.com/)
+- [CBB Project](http://example.com/)
+- [Loan Project](http://example.com/)
+- [Win Quality Visualizer](http://example.com/)
 ---
 
 
