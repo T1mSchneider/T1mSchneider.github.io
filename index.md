@@ -8,7 +8,7 @@
 Currently working on feature engineering to get models better as well as understanding why Random Forrest worked so well, here is a sample
 <img src="images/Screenshot 2024-10-30 at 13-20-53 Untitled7 - Jupyter Notebook.png?raw=true"/>
 
-12Other projects coming soon include, refining and showing off SQL skills, and a project predicting energy consumption based on previous years.
+Other projects coming soon include, refining and showing off SQL skills, and a project predicting energy consumption based on previous years.
 
 <!--
 [Project 2 Title](/pdf/sample_presentation.pdf)
