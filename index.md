@@ -4,9 +4,11 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Loan Prediction (coming soon)]<!--(/sample_page)--!>
+<p style="font-size:11px">Currently working on feature engineering to get models better as well as understanding why Random Forrest worked so well
+<img src="images/Screenshot 2024-10-30 at 13-20-53 Untitled7 - Jupyter Notebook.png?raw=true"/>
 
+<p style="font-size:11px"> Other projects coming soon include, refining and showing off SQL skills, and a project predicting energy consumption based on previous years.
 ---
 <!--[Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -28,8 +30,3 @@
 ---
 
 
-
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
