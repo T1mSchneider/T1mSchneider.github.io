@@ -10,6 +10,13 @@ Currently working on feature engineering to get models better as well as underst
 
 Other projects coming soon include, refining and showing off SQL skills, and a project predicting energy consumption based on previous years.
 
+### SQL Samples
+
+- [SQL ERD 1](https://github.com/T1mSchneider/SQL/blob/main/SQL%20ERD%201%20questions.md)
+- [SQL ERD 2](https://github.com/T1mSchneider/SQL/blob/main/SQL%20ERD%20questions%202.md)
+
+
+
 <!--
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
