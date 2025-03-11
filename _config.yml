@@ -1,14 +1,20 @@
-title: Tim Schneider # your name (or website title) here
-logo: "/images/IMG_9394.JPG?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
-  Hi! I'm Tim Schneider (@T1mSchneider), a recent Data Science graduate from Arizona State University. I enjoy leveraging computers to process and analyze large datasets, turning data into actionable insights. My toolkit includes Python, pandas, numpy, scikit-learn, and TensorFlow for machine learning. You’ll find me sharing personal projects here, primarily focused on data analysis and automation.
+description: > 
+  Hi! I'm Tim Schneider (@T1mSchneider), a recent Data Science graduate from Arizona State University. 
+  I enjoy leveraging computers to process and analyze large datasets, turning data into actionable insights. 
+  My toolkit includes Python, pandas, numpy, scikit-learn, and TensorFlow for machine learning. 
+  You’ll find me sharing personal projects here, primarily focused on data analysis and automation.
 
-I’m passionate about learning and tackling complex problems with the simplest, most efficient solutions. I'm actively keeping my SQL skills sharp, working on machine learning projects, learning PySpark, and exploring a new approach to analyzing running backs in football to enhance data-driven insights in sports analytics, while finding a role where I can make an impact through data.
+  I’m passionate about learning and tackling complex problems with the simplest, most efficient solutions. 
+  I'm actively keeping my SQL skills sharp, working on machine learning projects, learning PySpark, and 
+  exploring a new approach to analyzing running backs in football to enhance data-driven insights in sports analytics, 
+  while finding a role where I can make an impact through data.
 
-Outside of tech, I’m a big sports fan—football and basketball are my favorites—and I love mountain biking. I’m always exploring new hobbies and challenges in my free time.
+  Outside of tech, I’m a big sports fan—football and basketball are my favorites—and I love mountain biking. 
+  I’m always exploring new hobbies and challenges in my free time.
 
   <br><br>
   <a href="https://www.linkedin.com/in/t1mschneider/">View My LinkedIn Profile</a> 
+
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
